@@ -60,7 +60,7 @@ const Contact = () => {
                   <h4 className="font-bold text-slate-900 mb-1">Our Office</h4>
                   <p className="text-slate-600 text-sm font-semibold mb-1">UNISYNC INFOSYSTEMS PRIVATE LIMITED</p>
                   <p className="text-slate-500 text-sm leading-relaxed">
-                    Hyderabad, Telangana, India.
+                     8-2-644/1/205 F205,hiline, Complex, Road No. 12, Banjara Hills, Hyderabad, Khairatabad, Telangana, India, 500034.
                   </p>
                 </div>
               </div>
@@ -88,16 +88,7 @@ const Contact = () => {
                 </div>
               </div>
 
-               {/* Phone (Optional placeholder) */}
-               <div className="flex items-start gap-6">
-                <div className="w-12 h-12 bg-orange-50 rounded-xl flex items-center justify-center text-orange-600 shrink-0">
-                  <Phone size={24} />
-                </div>
-                <div>
-                  <h4 className="font-bold text-slate-900 mb-1">Call Us</h4>
-                  <p className="text-slate-500 text-sm">+91 XXXXX XXXXX</p>
-                </div>
-              </div>
+               
             </div>
           </div>
 
